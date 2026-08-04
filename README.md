@@ -1,44 +1,186 @@
-# Sejam bem-vindos ao perfil de Silvio Dias Ferreira 👋
+# 👋 Olá, eu sou Silvio Dias Ferreira
 
-Com mais de **4 anos de experiência sólida** no ecossistema .NET, atuo na construção de soluções backend escaláveis, seguras e de alta criticidade. Minha trajetória é marcada pela sustentação e evolução de sistemas corporativos de altíssima densidade de regras de negócio — como a gestão de folha de pagamento, controle de escalas complexas, concessão de licenças e férias para o estado do Mato Grosso do Sul, incluindo integrações estritas com o eSocial e portal dos servidores do estado. Possuo forte vivência na transição e modernização de arquiteturas monolíticas legadas (.NET Framework 4.8, Razor, AngularJS) para microsserviços distribuídos orientados a eventos.
+Desenvolvedor Backend .NET apaixonado por arquitetura de software, APIs e modernização de sistemas corporativos.
 
-**Background de Infraestrutura & Redes:** Unindo mais de 20 anos de experiência prática em suporte avançado de TI, administração de servidores Linux (IPCop), gerência de firewalls e controle de tráfego, adoto o ecossistema Linux + VS Code via Terminal/CLI como meu ambiente nativo de desenvolvimento. 
+Tenho mais de **4 anos de experiência** desenvolvendo soluções backend para sistemas de missão crítica e uma trajetória de mais de **20 anos na área de TI**, passando por infraestrutura, suporte, redes e treinamento técnico.
 
-Essa bagagem técnica me permite transitar com total naturalidade pelo universo de contêineres (Docker/Kubernetes) e pelo aprimoramento contínuo de arquiteturas Cloud-Native (Azure/AWS), entregando softwares resilientes, monitorados e de alta performance.
-
-
----
-
-### 🛠️ Competências Técnicas
-
-- **Linguagens & Frameworks:** C#, .NET 8/9, ASP.NET Core, Web API, Minimal APIs.
-- **Práticas de Engenharia:** Clean Architecture, Domain-Driven Design (DDD), CQRS, SOLID, RESTful APIs.
-- **Mensageria & Resiliência:** RabbitMQ, MassTransit, Polly (Circuit Breaker, Retry).
-- **Contêineres & Orquestração:** Docker, Docker Compose, Kubernetes (K8s), Helm.
-- **Nuvem & Infraestrutura (Multi-Cloud):** 
-  - **AWS:** EC2, RDS, IAM.
-  - **Azure:** Azure Container Apps, Azure Container Registry (ACR), Azure SQL Database, Blob Storage, Azure IAM/RBAC.
-- **Bancos de Dados:** SQL Server, Oracle (PL/SQL), PostgreSQL, MySQL, Redis (Caching).
-- **DevOps & Ferramentas:** CI/CD (GitHub Actions), Git, Linux (Bash), Serilog, Swagger.
+Atualmente concentro meus estudos e projetos em microsserviços, computação em nuvem, mensageria e boas práticas de engenharia de software.
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Minha trajetória
 
-Below you can find my pinned repositories featuring:
-- 🌐 **[Ecosistema de Microsserviços](https://github.com/sdias-code/dotnet-microservices-lab):** Arquitetura distribuída com C#, RabbitMQ, Redis e deploy via Kubernetes.
-- ☁️ **[Azure Cloud-Native Web API](https://github.com/sdias-code/microsoft-azure-cloud-native-bootcamp-2026):** API .NET 8 focada em segurança de dados utilizando controle de acesso por identidade gerenciada (IAM/RBAC), totalmente livre de connection strings hardcoded e preparada para o Azure Container Apps.
-- 🔒 **[Autenticação Segura na AWS](https://github.com/sdias-code/portifolio-secureauth-api-aws):** Implementação de JWT + Refresh Tokens estruturada com Clean Architecture e esteira automatizada de CI/CD via GitHub Actions.
-- 📊 **[Portfolio Manager API](https://github.com/sdias-code/portfolio-manager-api):** Implementação: Web API corporativa integrada ao PostgreSQL utilizando o Micro-ORM **Dapper** para máxima performance em consultas. Apresenta paginação avançada, estruturação de logs com Serilog, Versionamento estrito de endpoints (v1) e deploy em nuvem na infraestrutura Render.
+Minha carreira na tecnologia começou como **instrutor de informática**, onde atuei durante **cinco anos** ministrando treinamentos em informática, pacote Microsoft Office, internet e hardware. Essa experiência fortaleceu habilidades de comunicação, didática e compartilhamento de conhecimento, que continuam sendo diferenciais na minha atuação como desenvolvedor.
 
-### 📱 Soluções em Produção (Ecossistema Mobile & Web)
-- 🎯 **[PRF ADM: Quiz e Simulados](https://play.google.com/store/apps/details?id=br.com.sdiascode.prfconcurso):** Aplicativo Android nativo com arquitetura Offline-First, +100 downloads.
-- 🌐 *Landing Page Oficial:* https://concurso.sdiascode.com.br/
-- 💼 **[CMS Kayzen Terapias](https://kayzencursos.com.br/):** Plataforma web customizada para cursos de saúde, focada em gestão de conteúdo e vendas (Campo Grande/MS).
+Posteriormente, migrei para a área de **infraestrutura de TI**, acumulando mais de **20 anos de experiência** em suporte avançado, administração de servidores Linux (IPCop), redes, firewalls e ambientes corporativos. Essa base proporcionou uma visão sólida sobre infraestrutura, segurança, desempenho e ambientes de produção.
+
+
+Nos últimos **4 anos**, direcionei minha carreira para o desenvolvimento de software no ecossistema .NET, participando da sustentação e evolução de sistemas corporativos de alta criticidade, com destaque para a **folha de pagamento dos servidores públicos do Estado de Mato Grosso do Sul**, envolvendo regras de negócio complexas, integrações com o **eSocial** e o Portal do Servidor.
+
+Também participei da modernização de aplicações legadas em **.NET Framework (MVC/Razor e AngularJS)**, desenvolvendo **APIs em ASP.NET Core** e aplicações **React**, organizadas em serviços independentes por domínio de negócio, contribuindo para uma arquitetura mais modular e de fácil evolução.
+
+Paralelamente, venho aprofundando meus conhecimentos em **microsserviços, mensageria, Docker, Kubernetes e plataformas Cloud (AWS e Azure)** por meio de projetos práticos desenvolvidos para meu portfólio.
+
 ---
 
-### 📫 Como me encontrar
+## 💼 Experiência Profissional
 
-- 💼 **LinkedIn:** [linkedin.com/in/sdias2026](https://www.linkedin.com/in/sdias2026/)
-- 📧 **E-mail:** silviodias.ms@gmail.com
-- 📍 **Localização:** Campo Grande - MS (Disponível para oportunidades remotas ou híbridas)
+### Analista de Sistemas
+
+## INOVVATI TECNOLOGIA
+
+📅 Junho/2021 – Setembro/2025
+
+Atuei no desenvolvimento, sustentação e modernização de sistemas corporativos de alta criticidade utilizados pelo Governo do Estado de Mato Grosso do Sul, com foco em soluções relacionadas à gestão de pessoas, folha de pagamento, licenças e processos administrativos.
+
+Principais atividades:
+
+- Desenvolvimento e evolução de aplicações utilizando C#, .NET Framework e .NET Core/ASP.NET Core.
+- Atuação em sistemas de folha de pagamento dos servidores públicos estaduais, envolvendo regras complexas de negócio, cálculos, validações e integrações institucionais.
+- Modernização de aplicações legadas ASP.NET MVC/Razor através da criação de APIs REST com ASP.NET Core e novos frontends em React, mantendo a evolução gradual do ecossistema existente.
+- Desenvolvimento de APIs e serviços independentes para diferentes domínios administrativos, como Licença Saúde, Licença Paternidade, Doação de Sangue, Licença Nojo, Férias e outros processos.
+- Aplicação de boas práticas de engenharia de software nos novos serviços desenvolvidos, incluindo separação de responsabilidades, Clean Architecture, organização por camadas e implementação de testes unitários nas APIs.
+- Implementação de Background Services para processamento de rotinas administrativas e automações internas.
+- Desenvolvimento e manutenção de integrações com o eSocial e sistemas corporativos externos.
+- Otimização de consultas e rotinas de banco de dados utilizando SQL Server e Oracle, buscando melhoria de desempenho e estabilidade.
+- Análise e resolução de incidentes em ambiente produtivo, garantindo disponibilidade e continuidade dos serviços.
+
+---
+
+# 🛠️ Competências Técnicas
+
+### Backend
+
+- C#
+- .NET 8 / 9
+- ASP.NET Core
+- Web API
+- Minimal APIs
+
+### Arquitetura & Qualidade
+
+- Clean Architecture
+- DDD
+- CQRS
+- SOLID
+- REST
+- xUnit
+
+### Mensageria
+
+- RabbitMQ
+- MassTransit
+- Polly
+
+### Banco de Dados
+
+- SQL Server
+- Oracle
+- PostgreSQL
+- MySQL
+- Redis
+
+### Cloud
+
+- AWS (EC2, RDS, IAM)
+- Azure (Container Apps, ACR, Azure SQL, Blob Storage)
+
+### DevOps
+
+- Docker
+- Docker Compose
+- Kubernetes
+- Helm
+- GitHub Actions
+- Linux
+- Serilog
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🌐 Laboratório de Microsserviços
+
+Arquitetura distribuída utilizando .NET, RabbitMQ, MongoDB, Redis, Docker e Kubernetes.
+
+🔗 https://github.com/sdias-code/dotnet-microservices-lab
+
+---
+
+## ☁️ Azure Cloud Native API
+
+API .NET preparada para Azure Container Apps utilizando Managed Identity e RBAC.
+
+🔗 https://github.com/sdias-code/microsoft-azure-cloud-native-bootcamp-2026
+
+---
+
+## 🔐 SecureAuth API
+
+Autenticação JWT + Refresh Token utilizando Clean Architecture, Docker e CI/CD.
+
+🔗 https://github.com/sdias-code/portifolio-secureauth-api-aws
+
+---
+
+## 📊 Portfolio Manager API
+
+API REST utilizando Dapper, PostgreSQL, Serilog, Versionamento e deploy no Render.
+
+🔗 https://github.com/sdias-code/portfolio-manager-api
+
+---
+
+# 📱 Aplicações em Produção
+
+## 🎯 PRF ADM – Quiz e Simulados
+
+Aplicativo Android para preparação para concursos públicos.
+
+📲 Play Store
+
+https://play.google.com/store/apps/details?id=br.com.sdiascode.prfconcurso
+
+---
+
+## 🌐 Landing Page
+
+https://concurso.sdiascode.com.br/
+
+---
+
+## 💼 CMS Kayzen Terapias
+
+Sistema web para gestão de conteúdo e vendas.
+
+https://kayzencursos.com.br/
+
+---
+
+# 📚 Atualmente estudando
+
+- Microsserviços
+- Event Driven Architecture
+- Kubernetes
+- Helm
+- OpenTelemetry
+- Azure
+- AWS
+- Observabilidade
+- Arquiteturas Cloud-Native
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+
+https://linkedin.com/in/sdias2026
+
+📧 E-mail
+
+silviodias.ms@gmail.com
+
+📍 Campo Grande - MS
+
+💼 Disponível para oportunidades remotas e projetos freelancer.
