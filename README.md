@@ -28,6 +28,10 @@ Below you can find my pinned repositories featuring:
 - 🔒 **[Autenticação Segura na AWS](https://github.com/sdias-code/portifolio-secureauth-api-aws):** Implementação de JWT + Refresh Tokens estruturada com Clean Architecture e esteira automatizada de CI/CD via GitHub Actions.
 - 📊 **[Portfolio Manager API](https://github.com/sdias-code/portfolio-manager-api):** Implementação: Web API corporativa integrada ao PostgreSQL utilizando o Micro-ORM **Dapper** para máxima performance em consultas. Apresenta paginação avançada, estruturação de logs com Serilog, Versionamento estrito de endpoints (v1) e deploy em nuvem na infraestrutura Render.
 
+### 📱 Soluções em Produção (Ecossistema Mobile & Web)
+- 🎯 **[PRF ADM: Quiz e Simulados](https://play.google.com/store/apps/details?id=br.com.sdiascode.prfconcurso):** Aplicativo Android nativo com arquitetura Offline-First, +100 downloads.
+- 🌐 *Landing Page Oficial:* https://concurso.sdiascode.com.br/
+- 💼 **[CMS Kayzen Terapias](https://kayzencursos.com.br/):** Plataforma web customizada para cursos de saúde, focada em gestão de conteúdo e vendas (Campo Grande/MS).
 ---
 
 ### 📫 Como me encontrar
