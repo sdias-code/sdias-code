@@ -26,12 +26,12 @@ Below you can find my pinned repositories featuring:
 - 🌐 **[Ecosistema de Microsserviços](https://github.com/sdias-code/dotnet-microservices-lab):** Arquitetura distribuída com C#, RabbitMQ, Redis e deploy via Kubernetes.
 - ☁️ **[Azure Cloud-Native Web API](https://github.com/sdias-code/microsoft-azure-cloud-native-bootcamp-2026):** API .NET 8 focada em segurança de dados utilizando controle de acesso por identidade gerenciada (IAM/RBAC), totalmente livre de connection strings hardcoded e preparada para o Azure Container Apps.
 - 🔒 **[Autenticação Segura na AWS](https://github.com/sdias-code/portifolio-secureauth-api-aws):** Implementação de JWT + Refresh Tokens estruturada com Clean Architecture e esteira automatizada de CI/CD via GitHub Actions.
-- 🔒 **[ASP.NET Core Web API](https://github.com/sdias-code/portfolio-manager-api):** Implementação: Web API corporativa integrada ao PostgreSQL utilizando o Micro-ORM **Dapper** para máxima performance em consultas. Apresenta paginação avançada, estruturação de logs com Serilog, Versionamento estrito de endpoints (v1) e deploy em nuvem na infraestrutura Render.
+- 📊 **[Portfolio Manager API](https://github.com/sdias-code/portfolio-manager-api):** Implementação: Web API corporativa integrada ao PostgreSQL utilizando o Micro-ORM **Dapper** para máxima performance em consultas. Apresenta paginação avançada, estruturação de logs com Serilog, Versionamento estrito de endpoints (v1) e deploy em nuvem na infraestrutura Render.
 
 ---
 
 ### 📫 Como me encontrar
 
-- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/sdias2026/)
+- 💼 **LinkedIn:** [linkedin.com/in/sdias2026](https://www.linkedin.com/in/sdias2026/)
 - 📧 **E-mail:** silviodias.ms@gmail.com
 - 📍 **Localização:** Campo Grande - MS (Disponível para oportunidades remotas ou híbridas)
