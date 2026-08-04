@@ -99,8 +99,6 @@ Principais atividades:
 
 # 🚀 Projetos em Destaque
 
-## GitHub
-🔗 https://github.com/sdias-code
 
 ## 🌐 Laboratório de Microsserviços
 
