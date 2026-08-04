@@ -99,6 +99,9 @@ Principais atividades:
 
 # 🚀 Projetos em Destaque
 
+## GitHub
+🔗 https://github.com/sdias-code
+
 ## 🌐 Laboratório de Microsserviços
 
 Arquitetura distribuída utilizando .NET, RabbitMQ, MongoDB, Redis, Docker e Kubernetes.
