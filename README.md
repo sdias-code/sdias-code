@@ -1,8 +1,10 @@
 # Sejam bem-vindos ao perfil de Silvio Dias Ferreira 👋
 
-Com mais de **4 anos de experiência sólida** no ecossistema .NET, atuo no desenvolvimento de soluções backend escaláveis, seguras e de alta criticidade. Minha trajetória é marcada pela sustentação de sistemas corporativos robustos (como folhas de pagamento do estado do Mato Grosso do Sul, incluindo integração com eSocial) e pela transição bem-sucedida de arquiteturas legadas para microsserviços orientados a eventos.
+Com mais de **4 anos de experiência sólida** no ecossistema .NET, atuo na construção de soluções backend escaláveis, seguras e de alta criticidade. Minha trajetória é marcada pela sustentação de sistemas corporativos robustos (como as folhas de pagamento do estado do Mato Grosso do Sul, incluindo integração com eSocial) e pela transição bem-sucedida de arquiteturas monolíticas legadas para microsserviços distribuídos orientados a eventos.
 
- Aprimoramento contínuo de arquiteturas Cloud-Native (focado em Azure e AWS) para entregar softwares resilientes e de alta performance.
+**Background de Infraestrutura & Redes:** Unindo mais de 20 anos de experiência prática em suporte avançado de TI, administração de servidores Linux (IPCop), gerência de firewalls e controle de tráfego, adoto o ecossistema Linux + VS Code via Terminal/CLI como meu ambiente nativo de desenvolvimento. 
+
+Essa bagagem técnica me permite transitar com total naturalidade pelo universo de contêineres (Docker/Kubernetes) e pelo aprimoramento contínuo de arquiteturas Cloud-Native (Azure/AWS), entregando softwares resilientes, monitorados e de alta performance.
 
 ---
 
