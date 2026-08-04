@@ -15,9 +15,9 @@ Minha carreira na tecnologia começou como **instrutor de informática**, onde a
 Posteriormente, migrei para a área de **infraestrutura de TI**, acumulando mais de **20 anos de experiência** em suporte avançado, administração de servidores Linux (IPCop), redes, firewalls e ambientes corporativos. Essa base proporcionou uma visão sólida sobre infraestrutura, segurança, desempenho e ambientes de produção.
 
 
-Nos últimos 4 anos, direcionei minha carreira para o desenvolvimento de software no ecossistema .NET, atuando no desenvolvimento, sustentação e evolução de sistemas corporativos de alta criticidade, com destaque para a folha de pagamento dos servidores públicos do Estado de Mato Grosso do Sul. Nesse contexto, trabalhei com regras de negócio complexas, processos administrativos, integrações com o eSocial e comunicação com o Portal do Servidor, contribuindo para a modernização e evolução contínua da plataforma.
+Nos últimos **4 anos**, direcionei minha carreira para o desenvolvimento de software no ecossistema .NET, atuando no **desenvolvimento, sustentação e evolução de sistemas corporativos de alta criticidade**, com destaque para a **folha de pagamento dos servidores públicos do Estado de Mato Grosso do Sul**. Nesse contexto, trabalhei com **regras de negócio complexas, processos administrativos, integrações com o eSocial e comunicação com o Portal do Servidor**, contribuindo para a modernização e evolução contínua da plataforma.
 
-Também participei da modernização de aplicações legadas em **.NET Framework (MVC/Razor e AngularJS)**, desenvolvendo **APIs em ASP.NET Core** e aplicações **React**, organizadas em serviços independentes por domínio de negócio, contribuindo para uma arquitetura mais modular e de fácil evolução.
+Também atuei na modernização de aplicações legadas em **.NET Framework (MVC/Razor e AngularJS)**, desenvolvendo **APIs em ASP.NET Core** e aplicações **React**, organizadas em serviços independentes por domínio de negócio, contribuindo para uma arquitetura mais modular e de fácil evolução.
 
 Paralelamente, venho aprofundando meus conhecimentos em **microsserviços, mensageria, Docker, Kubernetes e plataformas Cloud (AWS e Azure)** por meio de projetos práticos desenvolvidos para meu portfólio.
 
