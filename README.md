@@ -1,4 +1,4 @@
-# Olá, eu sou o Silvio Dias Ferreira 👋
+# Sejam bem-vindos ao perfil de Silvio Dias Ferreira 👋
 
 Com mais de **4 anos de experiência sólida** no ecossistema .NET, atuo no desenvolvimento de soluções backend escaláveis, seguras e de alta criticidade. Minha trajetória é marcada pela sustentação de sistemas corporativos robustos (como folhas de pagamento do estado do Mato Grosso do Sul, incluindo integração com eSocial) e pela transição bem-sucedida de arquiteturas legadas para microsserviços orientados a eventos.
 
