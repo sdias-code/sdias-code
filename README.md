@@ -6,127 +6,71 @@ nuvem**.
 
 ## 🚀 Minha trajetória
 
-Minha carreira na tecnologia começou como **instrutor de informática**,
-onde atuei por **cinco anos** ministrando treinamentos em informática,
-**Microsoft Office, internet e hardware**. Essa experiência fortaleceu
-minhas habilidades de **comunicação** e **didática**, diferenciais que
-levo para o desenvolvimento de software.
+Minha carreira na tecnologia começou como **instrutor de informática**, onde atuei por **cinco anos** (1994 – 1999) ministrando treinamentos em informática, **Microsoft Office, internet e hardware** em projetos de ONG. Essa experiência consolidou minhas habilidades de **comunicação clara**, **didática** e **compartilhamento de conhecimento**, diferenciais que aplico diariamente na interação com equipes e no entendimento de requisitos de negócio.
 
-Posteriormente, migrei para a área de **infraestrutura de TI**,
-acumulando **mais de 20 anos de experiência** em suporte avançado,
-administração de servidores **Linux (IPCop)**, redes, firewalls e
-ambientes corporativos. Essa experiência me proporcionou uma sólida
-visão de **infraestrutura**, **segurança** e **ambientes de produção**.
+Posteriormente, atuei por mais de 20 anos na área de **suporte e infraestrutura de TI**. Trabalhei em laboratório e campo em grandes empresas e assistências autorizadas como **Embratel** (2001 – 2003) e **Chiptek** (2004 – 2007), prestando suporte avançado a hardware de marcas globais (Compaq, HP e IBM). Como **microempreendedor e proprietário de Lan House** por 10 anos, projetei redes locais e gerenciei servidores **Linux proxy (IPCop)** para controle de tráfego e segurança. Essa vivência me proporcionou um domínio nativo de **linha de comando (Terminal/Bash)** e **fundamentos de redes**, o que simplifica e acelera o meu trabalho atual com Docker, portas e roteamento de APIs.
 
-Foi durante minha graduação em **Análise e Desenvolvimento de
-Sistemas**, iniciada em **2015**, que despertei meu interesse pelo
-desenvolvimento de software. Mantive meus estudos e projetos ao longo
-dessa transição, conciliando minha evolução técnica com a atuação em
-infraestrutura, até iniciar minha carreira profissional como
-**desenvolvedor .NET** em **2021**.
+Durante minha graduação em **Análise e Desenvolvimento de Sistemas** (UNIGRAN MS, 2015 – 2017), direcionei meus estudos para a engenharia de software, culminando na minha transição definitiva para o mercado de desenvolvimento em **2021**.
 
-Desde então, participei do **desenvolvimento**, **sustentação** e
-**evolução** de sistemas corporativos de alta criticidade, com destaque
-para a **modernização da folha de pagamento dos servidores públicos do
-Estado de Mato Grosso do Sul**. Trabalhei com **regras de negócio
-complexas**, integrações com o **eSocial** e o **Portal do Servidor**,
-contribuindo para a evolução contínua da plataforma.
+Desde então, atuei no **desenvolvimento**, **sustentação** e **modernização** de sistemas corporativos de missão crítica para o Governo do Estado de Mato Grosso do Sul. Fui responsável por implementar **regras de negócio complexas** em sistemas de folha de pagamento, rotinas de validações administrativas e integrações estratégicas com o **eSocial** e o **Portal do Servidor**. 
 
-Também participei da **modernização de aplicações legadas** em **.NET
-Framework (MVC/Razor e AngularJS)**, desenvolvendo **APIs REST** em
-**ASP.NET Core** e aplicações **React**, organizadas em **serviços
-independentes por domínio de negócio**, tornando a arquitetura mais
-**modular** e de **fácil evolução**.
+Participei ativamente da **modernização de aplicações legadas** desenvolvidas em **.NET Framework (MVC/Razor e AngularJS)**, migrando-as para arquiteturas desacopladas baseadas em **Web APIs escaláveis em ASP.NET Core** com frontends modernos em **React**, organizadas por domínios de negócio.
 
-Paralelamente à minha experiência profissional, desenvolvo **projetos
-práticos** voltados para **arquitetura de microsserviços**,
-**mensageria**, **Docker**, **Kubernetes**, **CI/CD** e **computação em
-nuvem (AWS e Azure)**, aplicando tecnologias modernas em cenários reais
-e consolidando conhecimentos em **arquiteturas distribuídas** e
-**Cloud-Native**.
 
 ------------------------------------------------------------------------
 
 # 💼 Experiência Profissional
 
-## Analista de Sistemas --- INOVVATI TECNOLOGIA
+## Analista de Sistemas / Desenvolvedor .NET — INOVVATI TECNOLOGIA
+**Período:** Junho/2021 — Setembro/2025  
+**Stack:** C# • .NET Framework 4.5+ • .NET 6 • .NET 8 • ASP.NET MVC / Razor • ASP.NET Core Web API • Minimal APIs • Clean Architecture • SOLID • React • SQL Server • Oracle • Docker • Git
 
-**Período:** Junho/2021 -- Setembro/2025
+Atuação direta no desenvolvimento, sustentação e migração estratégica de sistemas corporativos de alta criticidade e missão crítica utilizados pelo Governo do Estado de Mato Grosso do Sul (SAD/SISGED).
 
-**Stack:** C# • .NET Framework • ASP.NET Core • React • SQL Server •
-Oracle • Docker • Git
-
-Atuei no desenvolvimento, sustentação e modernização de sistemas
-corporativos de alta criticidade utilizados pelo Governo do Estado de
-Mato Grosso do Sul, com foco em gestão de pessoas, folha de pagamento,
-licenças e processos administrativos.
-
-### Principais atividades
-
--   Desenvolvimento e evolução de aplicações utilizando C#, .NET
-    Framework e ASP.NET Core.
--   Atuação em sistemas de folha de pagamento com regras complexas de
-    negócio, cálculos, validações e integrações institucionais.
--   Modernização de aplicações legadas ASP.NET MVC/Razor por meio da
-    criação de APIs REST e frontend em React.
--   Desenvolvimento de APIs e serviços independentes para diferentes
-    domínios administrativos.
--   Aplicação de boas práticas como Clean Architecture, separação de
-    responsabilidades e testes unitários.
--   Desenvolvimento e manutenção de integrações com o eSocial e sistemas
-    corporativos.
--   Otimização de consultas em SQL Server e Oracle.
--   Análise e resolução de incidentes em produção.
+### Principais atividades e entregas:
+- **Desenvolvimento Backend:** Construção, evolução e manutenção de aplicações utilizando C#, contemplando desde ecossistemas legados em **.NET Framework 4.5+ (ASP.NET MVC/Razor)** até APIs modernas baseadas em **.NET 6** e **.NET 8** (ASP.NET Core e Minimal APIs).
+- **Modernização de Sistemas:** Planejamento e migração gradual de monolitos legados e interfaces em AngularJS para arquiteturas de software desacopladas, modulares e orientadas por domínios de negócio com APIs e React.
+- **Qualidade de Código:** Implementação de padrões de projeto robustos através da aplicação de Clean Architecture, princípios SOLID, CQRS e cobertura de testes unitários automatizados com xUnit.
+- **Processamento Assíncrono:** Criação e manutenção de Background Services para execução automatizada de rotinas pesadas de cálculos, regras de negócio complexas e processamentos massivos da folha de pagamento estadual.
+- **Integrações Complexas:** Desenvolvimento de barramentos e microsserviços integrados de forma segura ao eSocial, portais de servidores e demais serviços e sistemas governamentais externos.
+- **Banco de Dados:** Otimização, manipulação e tuning de performance em consultas complexas, procedures, triggers e rotinas de dados em grandes volumes estruturados no SQL Server e Oracle.
+- **Sustentação e Operação (Troubleshooting):** Análise ágil, diagnóstico e resolução de incidentes críticos em ambiente produtivo (legado e moderno), assegurando estabilidade contínua, alta disponibilidade e integridade dos dados de milhares de servidores públicos.
 
 ------------------------------------------------------------------------
 
 # 🛠️ Competências Técnicas
 
-### Backend
-
-- C#
-- .NET 8 / 9
-- ASP.NET Core
-- Web API
+### Backend & Linguagens
+- C# / .NET 8 / .NET 9
+- ASP.NET Core Web API
 - Minimal APIs
+- Entity Framework Core / Dapper
 
-### Arquitetura & Qualidade
-
+### Arquitetura & Engenharia de Software
 - Clean Architecture
-- DDD
-- CQRS
-- SOLID
-- REST
-- xUnit
+- Domain-Driven Design (DDD)
+- CQRS / Princípios SOLID
+- Design Patterns / APIs REST
+- Testes Unitários (xUnit)
 
-### Mensageria
-
+### Mensageria & Sistemas Distribuídos
 - RabbitMQ
 - MassTransit
-- Polly
+- Resiliência com Polly
+- Arquitetura Orientada a Eventos (EDA)
 
-### Banco de Dados
-
+### Bancos de Dados
 - SQL Server
 - Oracle
 - PostgreSQL
 - MySQL
-- Redis
+- Redis / MongoDB
 
-### Cloud
-
-- AWS (EC2, RDS, IAM)
-- Azure (Container Apps, ACR, Azure SQL, Blob Storage)
-
-### DevOps
-
-- Docker
-- Docker Compose
-- Kubernetes
-- Helm
-- GitHub Actions
-- Linux
-- Serilog
+### Cloud & DevOps
+- **Azure:** Container Apps, Container Registry (ACR), Azure SQL, Blob Storage, Managed Identity, RBAC.
+- **AWS:** EC2, RDS, IAM.
+- **DevOps:** Docker, Docker Compose, Kubernetes, Helm, GitHub Actions (CI/CD), Linux (Terminal/Bash).
+- **Observabilidade:** Serilog / OpenTelemetry.
 
 ------------------------------------------------------------------------
 
@@ -134,33 +78,19 @@ licenças e processos administrativos.
 
 
 ## 🌐 Laboratório de Microsserviços
-
-Arquitetura distribuída utilizando .NET, RabbitMQ, MongoDB, Redis, Docker e Kubernetes.
-
+Arquitetura distribuída de ponta a ponta explorando padrões de microsserviços utilizando .NET, RabbitMQ, MongoDB, Redis, Docker e Kubernetes.  
 🔗 https://github.com/sdias-code/dotnet-microservices-lab
 
-------------------------------------------------------------------------
-
 ## ☁️ Azure Cloud Native API
-
-API .NET preparada para Azure Container Apps utilizando Managed Identity e RBAC.
-
+CRUD completo e resiliente preparado para ambiente de nuvem utilizando ASP.NET Core, Azure Container Apps, Managed Identity (RBAC), Azure SQL e Blob Storage.  
 🔗 https://github.com/sdias-code/microsoft-azure-cloud-native-bootcamp-2026
 
-------------------------------------------------------------------------
-
 ## 🔐 SecureAuth API
-
-Autenticação JWT + Refresh Token utilizando Clean Architecture, Docker e CI/CD.
-
+API de autenticação robusta em .NET 8 aplicando Clean Architecture, JWT, Refresh Token, PostgreSQL, Docker e esteira automatizada de CI/CD.  
 🔗 https://github.com/sdias-code/portifolio-secureauth-api-aws
 
-------------------------------------------------------------------------
-
 ## 📊 Portfolio Manager API
-
-API REST utilizando Dapper, PostgreSQL, Serilog, Versionamento e deploy no Render.
-
+API REST completa construída com ASP.NET Core, Dapper, PostgreSQL, Serilog para observabilidade, versionamento de endpoints e deploy em nuvem.  
 🔗 https://github.com/sdias-code/portfolio-manager-api
 
 ------------------------------------------------------------------------
@@ -168,53 +98,30 @@ API REST utilizando Dapper, PostgreSQL, Serilog, Versionamento e deploy no Rende
 # 📱 Aplicações em Produção
 
 ## 🎯 PRF ADM – Quiz e Simulados
+Aplicativo Android nativo para preparação focada em concursos públicos, desenvolvido em Flutter e integrado a serviços de monetização.  
+📲 [Disponível na Google Play Store](https://play.google.com/store/apps/details?id=br.com.sdiascode.prfconcurso)
 
-Aplicativo Android para preparação para concursos públicos.
-
-📲 Play Store
-
-https://play.google.com/store/apps/details?id=br.com.sdiascode.prfconcurso
-
-------------------------------------------------------------------------
-
-## 🌐 Landing Page
-
-https://concurso.sdiascode.com.br/
-
-------------------------------------------------------------------------
+## 🌐 Landing Page de Vendas
+Página de conversão otimizada e integrada para o produto de simulados.  
+🔗 https://concurso.sdiascode.com.br/
 
 ## 💼 CMS Kayzen Terapias
+Sistema corporativo completo focado na gestão de conteúdo, agendamentos e vendas online.  
+🔗 https://kayzencursos.com.br/
 
-Sistema web para gestão de conteúdo e vendas.
+---
 
-https://kayzencursos.com.br/
+# 📚 Objetivos de Desenvolvimento & Estudo
+- Aprofundamento em Arquiteturas Cloud-Native e Padrões de Microsserviços
+- Orquestração avançada com Kubernetes e Helm
+- Monitoramento e telemetria distribuída com OpenTelemetry e Observabilidade
+- Práticas avançadas de CI/CD e infraestrutura como código (IaC)
 
-------------------------------------------------------------------------
+---
 
-# 📚 Atualmente estudando
+# 📫 Contato & Redes
 
-- Microsserviços
-- Event Driven Architecture
-- Kubernetes
-- Helm
-- OpenTelemetry
-- Azure
-- AWS
-- Observabilidade
-- Arquiteturas Cloud-Native
-
-------------------------------------------------------------------------
-
-# 📫 Contato
-
-💼 LinkedIn
-
-https://linkedin.com/in/sdias2026
-
-📧 E-mail
-
-silviodias.ms@gmail.com
-
-📍 Campo Grande - MS
-
-💼 Disponível para oportunidades remotas e projetos freelancer.
+- **LinkedIn:** https://linkedin.com/in/sdias2026
+- **GitHub:** https://github.com/sdias-code
+- **E-mail:** silviodias.ms@gmail.com
+- **Localização:** Campo Grande - MS *(Disponível para oportunidades 100% remotas e projetos freelancer)*
