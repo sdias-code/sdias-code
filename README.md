@@ -33,7 +33,7 @@ Atuação direta no desenvolvimento, sustentação e migração estratégica de 
 - **Qualidade de Código:** Implementação de padrões de projeto robustos através da aplicação de Clean Architecture, princípios SOLID, CQRS e cobertura de testes unitários automatizados com xUnit.
 - **Processamento Assíncrono:** Criação e manutenção de Background Services para execução automatizada de rotinas pesadas de cálculos, regras de negócio complexas e processamentos massivos da folha de pagamento estadual.
 - **Integrações Complexas:** Desenvolvimento de barramentos e microsserviços integrados de forma segura ao eSocial, portais de servidores e demais serviços e sistemas governamentais externos.
-- **Banco de Dados:** Otimização, manipulação e tuning de performance em consultas complexas, procedures, triggers e rotinas de dados em grandes volumes estruturados no SQL Server e Oracle.
+- **Acesso e Manipulação de Dados:** Atuação em SQL Server e Oracle para consulta, inclusão, alteração e correção de registros via queries. Ajuste estrutural de consultas SQL diretamente no código durante as rotinas de manutenção do sistema. Desenvolvimento de classes *Repository* para persistência, abstração e acesso a dados no backend.
 - **Sustentação e Operação (Troubleshooting):** Análise ágil, diagnóstico e resolução de incidentes críticos em ambiente produtivo (legado e moderno), assegurando estabilidade contínua, alta disponibilidade e integridade dos dados de milhares de servidores públicos.
 
 ------------------------------------------------------------------------
