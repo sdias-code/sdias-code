@@ -7,7 +7,7 @@ Foco em arquitetura de software, APIs de alta performance, microsserviços e sis
 
 Minha carreira na tecnologia começou como **instrutor de informática**, onde atuei por **cinco anos** (1994 – 1999) ministrando treinamentos em informática, **Microsoft Office, internet e hardware** em projetos de ONG. Essa experiência consolidou minhas habilidades de **comunicação clara**, **didática** e **compartilhamento de conhecimento**, diferenciais que aplico diariamente na interação com equipes e no levantamento de requisitos.
 
-Posteriormente, atuei por mais de 20 anos na área de **suporte e infraestrutura de TI** (Embratel e Chiptek), prestando suporte avançado e gerenciando servidores **Linux proxy (IPCop)**. Essa vivência me proporcionou um domínio nativo de **linha de comando (Terminal/Bash)** e **fundamentos de redes**, o que simplifica e acelera o meu trabalho atual com Docker, portas, redes e roteamento de APIs.
+Posteriormente, atuei por mais de 20 anos na área de **suporte e infraestrutura de TI**. Trabalhei com manutenção de computadores, notebooks e instalação de sistemas Windows em laboratório e campo para empresas como **Embratel e Chiptek**. Como **microempreendedor e proprietário de Lan House por 10 anos**, gerenciei servidores Linux proxy (IPCop), implementando políticas de filtragem de conteúdo para segurança de usuários em idade escolar e controle de banda para otimização do tráfego de rede. Essa vivência consolidou meu domínio em linha de comando (Terminal/Bash) e fundamentos de redes, facilitando meu trabalho atual com Docker e roteamento de APIs.
 
 Após concluir minha graduação em **Análise e Desenvolvimento de Sistemas** (UNIGRAN MS, 2015 – 2017), migrei definitivamente para a engenharia de software em **2021**.
 
