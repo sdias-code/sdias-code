@@ -1,21 +1,17 @@
 # 👋 Olá, eu sou Silvio Dias Ferreira
 
-**Desenvolvedor Backend .NET autodidata**, com foco em **arquitetura de
-software**, **APIs**, **sistemas distribuídos** e **computação em
-nuvem**.
+**Engenheiro de Software Backend (Java / .NET) | Especialista em Setor Público**  
+Foco em arquitetura de software, APIs de alta performance, microsserviços e sistemas distribuídos cloud-native.
 
 ## 🚀 Minha trajetória
 
-Minha carreira na tecnologia começou como **instrutor de informática**, onde atuei por **cinco anos** (1994 – 1999) ministrando treinamentos em informática, **Microsoft Office, internet e hardware** em projetos de ONG. Essa experiência consolidou minhas habilidades de **comunicação clara**, **didática** e **compartilhamento de conhecimento**, diferenciais que aplico diariamente na interação com equipes e no entendimento de requisitos de negócio.
+Minha carreira na tecnologia começou como **instrutor de informática**, onde atuei por **cinco anos** (1994 – 1999) ministrando treinamentos em informática, **Microsoft Office, internet e hardware** em projetos de ONG. Essa experiência consolidou minhas habilidades de **comunicação clara**, **didática** e **compartilhamento de conhecimento**, diferenciais que aplico diariamente na interação com equipes e no levantamento de requisitos.
 
-Posteriormente, atuei por mais de 20 anos na área de **suporte e infraestrutura de TI**. Trabalhei em laboratório e campo em grandes empresas e assistências autorizadas como **Embratel** (2001 – 2003) e **Chiptek** (2004 – 2007), prestando suporte avançado a hardware de marcas globais (Compaq, HP e IBM). Como **microempreendedor e proprietário de Lan House** por 10 anos, projetei redes locais e gerenciei servidores **Linux proxy (IPCop)** para controle de tráfego e segurança. Essa vivência me proporcionou um domínio nativo de **linha de comando (Terminal/Bash)** e **fundamentos de redes**, o que simplifica e acelera o meu trabalho atual com Docker, portas e roteamento de APIs.
+Posteriormente, atuei por mais de 20 anos na área de **suporte e infraestrutura de TI** (Embratel e Chiptek), prestando suporte avançado e gerenciando servidores **Linux proxy (IPCop)**. Essa vivência me proporcionou um domínio nativo de **linha de comando (Terminal/Bash)** e **fundamentos de redes**, o que simplifica e acelera o meu trabalho atual com Docker, portas, redes e roteamento de APIs.
 
-Durante minha graduação em **Análise e Desenvolvimento de Sistemas** (UNIGRAN MS, 2015 – 2017), direcionei meus estudos para a engenharia de software, culminando na minha transição definitiva para o mercado de desenvolvimento em **2021**.
+Após concluir minha graduação em **Análise e Desenvolvimento de Sistemas** (UNIGRAN MS, 2015 – 2017), migrei definitivamente para a engenharia de software em **2021**.
 
-Desde então, atuei no **desenvolvimento**, **sustentação** e **modernização** de sistemas corporativos de missão crítica para o Governo do Estado de Mato Grosso do Sul. Fui responsável por implementar **regras de negócio complexas** em sistemas de folha de pagamento, rotinas de validações administrativas e integrações estratégicas com o **eSocial** e o **Portal do Servidor**. 
-
-Participei ativamente da **modernização de aplicações legadas** desenvolvidas em **.NET Framework (MVC/Razor e AngularJS)**, migrando-as para arquiteturas desacopladas baseadas em **Web APIs escaláveis em ASP.NET Core** com frontends modernos em **React**, organizadas por domínios de negócio.
-
+Desde então, atuei por mais de 4 anos no desenvolvimento, sustentação e modernização de sistemas corporativos de missão crítica para o Governo do Estado de Mato Grosso do Sul (SAD). Fui o responsável pela decomposição e migração de módulos complexos de regras de negócio (como o sistema de licenças da Folha de Pagamento) de arquiteturas legadas para **APIs modernas e interfaces responsivas em React**.
 
 ------------------------------------------------------------------------
 
@@ -23,59 +19,51 @@ Participei ativamente da **modernização de aplicações legadas** desenvolvida
 
 ## Analista de Sistemas / Desenvolvedor .NET — INOVVATI TECNOLOGIA
 **Período:** Junho/2021 — Setembro/2025  
-**Stack:** C# • .NET Framework 4.5+ • .NET 6 • .NET 8 • ASP.NET MVC / Razor • ASP.NET Core Web API • Minimal APIs • Clean Architecture • SOLID • React • SQL Server • Oracle • Docker • Git
+**Stack:** Java • Spring Boot • C# • .NET 8/9 • ASP.NET Core Web API • Clean Architecture • SOLID • React • AngularJS • SQL Server • Oracle
 
 Atuação direta no desenvolvimento, sustentação e migração estratégica de sistemas corporativos de alta criticidade e missão crítica utilizados pelo Governo do Estado de Mato Grosso do Sul (SAD/SISGED).
 
 ### Principais atividades e entregas:
-- **Desenvolvimento Backend:** Construção, evolução e manutenção de aplicações utilizando C#, contemplando desde ecossistemas legados em **.NET Framework 4.5+ (ASP.NET MVC/Razor)** até APIs modernas baseadas em **.NET 6** e **.NET 8** (ASP.NET Core e Minimal APIs).
-- **Modernização de Sistemas:** Planejamento e migração gradual de monolitos legados e interfaces em AngularJS para arquiteturas de software desacopladas, modulares e orientadas por domínios de negócio com APIs e React.
-- **Qualidade de Código:** Implementação de padrões de projeto robustos através da aplicação de Clean Architecture, princípios SOLID, CQRS e cobertura de testes unitários automatizados com xUnit.
-- **Processamento Assíncrono:** Criação e manutenção de Background Services para execução automatizada de rotinas pesadas de cálculos, regras de negócio complexas e processamentos massivos da folha de pagamento estadual.
-- **Integrações Complexas:** Desenvolvimento de barramentos e microsserviços integrados de forma segura ao eSocial, portais de servidores e demais serviços e sistemas governamentais externos.
-- **Acesso e Manipulação de Dados:** Atuação em SQL Server e Oracle para consulta, inclusão, alteração e correção de registros via queries. Ajuste estrutural de consultas SQL diretamente no código durante as rotinas de manutenção do sistema. Desenvolvimento de classes *Repository* para persistência, abstração e acesso a dados no backend.
-- **Sustentação e Operação (Troubleshooting):** Análise ágil, diagnóstico e resolução de incidentes críticos em ambiente produtivo (legado e moderno), assegurando estabilidade contínua, alta disponibilidade e integridade dos dados de milhares de servidores públicos.
+- **Migração e Arquitetura Fullstack:** Responsável pela decomposição e desacoplamento do sistema legado MVC (SISGED/SAD), migrando regras complexas de negócio para uma arquitetura moderna de APIs REST e interfaces em React.
+- **Entrega de Módulos Críticos:** Desenvolvimento ponta a ponta (Backend + Frontend) de subsistemas de alta relevância, incluindo os módulos de *Licença Nojo*, *Licença Casamento* e *Doação de Sangue* da folha de pagamento estadual.
+- **Desenvolvimento e Sustentação Backend:** Evolução de microsserviços e APIs utilizando .NET 8/9 e C#, além de manutenções funcionais em códigos legados e interfaces em AngularJS.
+- **Capacitação Oficial em Java:** Conclusão do treinamento imersivo de 2 meses promovido pela matriz da Inovvati, consolidando bases profundas no ecossistema Java, Spring Boot e persistência de dados.
+- **Processamento Assíncrono:** Criação de Background Services para automação de rotinas pesadas de cálculos e processamentos massivos de dados funcionais públicos.
+- **Acesso e Manipulação de Dados:** Atuação avançada em bancos SQL Server e Oracle para criação, correção e otimização estrutural de consultas complexas diretamente no código.
+- **Sustentação e Operação (Troubleshooting):** Diagnóstico ágil de incidentes em ambiente de produção, garantindo estabilidade e integridade dos dados de milhares de servidores públicos.
 
 ------------------------------------------------------------------------
 
 # 🛠️ Competências Técnicas
 
 ### Backend & Linguagens
-- C# / .NET 8 / .NET 9
-- ASP.NET Core Web API
-- Minimal APIs
-- Entity Framework Core / Dapper
+- Java (11, 17, 21) • Java EE / Jakarta
+- C# • .NET 8 / .NET 9 • Minimal APIs
+- Spring Boot • ASP.NET Core Web API • Dapper • JPA / Hibernate
 
 ### Arquitetura & Engenharia de Software
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- CQRS / Princípios SOLID
-- Design Patterns / APIs REST
-- Testes Unitários (xUnit)
+- Clean Architecture • Domain-Driven Design (DDD)
+- CQRS • Princípios SOLID • Design Patterns • APIs RESTful • Testes Unitários (JUnit, xUnit)
 
-### Mensageria & Sistemas Distribuídos
-- RabbitMQ
-- MassTransit
-- Resiliência com Polly
-- Arquitetura Orientada a Eventos (EDA)
+### Frontend & Web
+- React • AngularJS • JavaScript (ES6+) • HTML5 / CSS3 • Bootstrap • Angular
 
 ### Bancos de Dados
-- SQL Server
-- Oracle
-- PostgreSQL
-- MySQL
-- Redis / MongoDB
+- SQL Server • Oracle • PostgreSQL • MySQL • Redis • MongoDB
 
-### Cloud & DevOps
-- **Azure:** Container Apps, Container Registry (ACR), Azure SQL, Blob Storage, Managed Identity, RBAC.
-- **AWS:** EC2, RDS, IAM.
-- **DevOps:** Docker, Docker Compose, Kubernetes, Helm, GitHub Actions (CI/CD), Linux (Terminal/Bash).
-- **Observabilidade:** Serilog / OpenTelemetry.
+### Cloud, DevOps & Ferramentas
+- **Azure & AWS:** Container Apps, Blob Storage, RBAC, EC2, RDS, IAM.
+- **Ferramentas:** Docker, Docker Compose, Kubernetes, Helm, Git, Azure DevOps, GitHub Actions (CI/CD), Linux (Terminal/Bash).
 
 ------------------------------------------------------------------------
 
 # 🚀 Projetos em Destaque
 
+## ☕ Ecossistema Java
+- **Spring WebFlux Reativo API:** API assíncrona e não-bloqueante utilizando Java, Spring Boot e Project Reactor (Mono/Flux) para consumo de dados externos de alta performance.  
+  🔗 https://github.com/sdias-code/github-api-java-spring-boot-webflux-v1
+- **CRUD Java Web (Laboratório Inovvati):** Sistema web desenvolvido em treinamento oficial documentando o domínio de Servlets, JSP, JUnit e padrão arquitetural DAO.  
+  🔗 https://github.com/sdias-code/crud-java-poo-mysql
 
 ## 🌐 Laboratório de Microsserviços
 Arquitetura distribuída de ponta a ponta explorando padrões de microsserviços utilizando .NET, RabbitMQ, MongoDB, Redis, Docker e Kubernetes.  
